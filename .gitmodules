@@ -1,0 +1,24 @@
+[submodule "stage0"]
+	path = stage0
+	url = https://github.com/codingandcommunity/sample-app.git
+	branch = stage0
+[submodule "stage1"]
+	path = stage1
+	url = https://github.com/codingandcommunity/sample-app.git
+	branch = stage1
+[submodule "stage2"]
+	path = stage2
+	url = https://github.com/codingandcommunity/sample-app.git
+	branch = stage2
+[submodule "stage3"]
+	path = stage3
+	url = https://github.com/codingandcommunity/sample-app.git
+	branch = stage3
+[submodule "stage4"]
+	path = stage4
+	url = https://github.com/codingandcommunity/sample-app.git
+	branch = stage4
+[submodule "stage5"]
+	path = stage5
+	url = https://github.com/codingandcommunity/sample-app.git
+	branch = stage5
