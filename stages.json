@@ -1,1 +1,30 @@
-
+{
+    "title": "Board Game",
+    "stages": [
+        {
+            "title": "Tutorial",
+            "steps": []
+        },
+        {
+            "title": "Initializing the Game Board",
+            "instructions": [],
+            "diffs": [],
+            "steps": [],
+            "tests": []
+        },
+        {
+            "title": "Selecting Squares",
+            instructions": [],
+            "diffs": [],
+            "steps": [],
+            "tests": []
+        },
+        {
+            "title": "Moving Pieces",
+            instructions": [],
+            "diffs": [],
+            "steps": [],
+            "tests": []
+        }
+    ]
+}
